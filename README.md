@@ -16,3 +16,12 @@
 
 ![JS Cheatsheet 2021 08](https://user-images.githubusercontent.com/93165498/143043215-fdf7ebfd-01e4-461f-8d7c-260f8c8add8c.jpg)
 
+![JS Cheatsheet 2021 09](https://user-images.githubusercontent.com/93165498/143043240-8eba0fbb-4942-4edf-9af8-2c6b957d8a6d.jpg)
+
+![JS Cheatsheet 2021 10](https://user-images.githubusercontent.com/93165498/143043271-9559637d-0393-47be-88a1-7c0c85d328c2.jpg)
+
+![JS Cheatsheet 2021 11](https://user-images.githubusercontent.com/93165498/143043296-ab542f32-ab27-4363-ab66-76f234db01ce.jpg)
+
+![JS Cheatsheet 2021 12](https://user-images.githubusercontent.com/93165498/143043321-8aec9214-858d-484d-bdc3-74af61539a9f.jpg)
+
+![JS Cheatsheet 2021 13](https://user-images.githubusercontent.com/93165498/143043348-c7abea7d-be80-4c96-b02f-e51b7d60b3a6.jpg)
